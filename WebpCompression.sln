@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebpCompression", "WebpCompression\WebpCompression.csproj", "{95552293-6113-4FBF-9A26-15A95480BB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebpCompressionTest", "WebpCompressionTest\WebpCompressionTest.csproj", "{07CA384B-8BE6-45A5-A5DC-C6F090906CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95552293-6113-4FBF-9A26-15A95480BB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95552293-6113-4FBF-9A26-15A95480BB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95552293-6113-4FBF-9A26-15A95480BB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95552293-6113-4FBF-9A26-15A95480BB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CA384B-8BE6-45A5-A5DC-C6F090906CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CA384B-8BE6-45A5-A5DC-C6F090906CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CA384B-8BE6-45A5-A5DC-C6F090906CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CA384B-8BE6-45A5-A5DC-C6F090906CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
